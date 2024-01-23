@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store/
+._*
+.Spotlight-V100
+.Trashes
+*.gif
+*.jpg
+*.pdf
+*.png
+*.psd
+*.svg
+*.jpeg
+*.zip
+/.github/
+
